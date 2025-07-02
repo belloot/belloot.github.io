@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Khiem Vu
+description: Computer Engineering | Cal Poly San Luis Obispo 
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "" #name of GitHub repository
+url: "belloot.github.io" #custom url to be used instead of GitHub repository
+email: khiemvut@gmail.com
 
 # Pagination
 paginate: 4
