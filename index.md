@@ -7,8 +7,16 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi! I'm Khiem (key-em) 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I'm currently studying computer engineering at **Cal Poly San Luis Obispo** 🐴
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I transferred to Cal Poly after doing community college for two years at **De Anza College** in Cupertino, CA.
+
+While in community college, I worked as a Math Instructor for *Mathnasium of Morgan Hill*, where I helped kids learn 
+and build up their mathematical skills 👨‍🏫
+
+In my coding classes, I got to work on some group projects with my classmates. 
+Check them out in the *Projects* section 👨‍💻
+
+Reach me using the social icons below 😀

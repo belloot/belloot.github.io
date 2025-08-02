@@ -13,9 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
+linkedin: "khiemtv"
 stackoverflow: "#"
-github: "#"
+github: "belloot"
 researchgate: "#"
 orcid: "#"
 quora: "#"
