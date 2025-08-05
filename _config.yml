@@ -3,7 +3,7 @@
 title: Khiem Vu
 description: Computer Engineering | Cal Poly San Luis Obispo 
 
-baseurl: "belloot.github.io" #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: khiemvut@gmail.com
 
